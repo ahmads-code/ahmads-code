@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Ahmad Shahzad
 
 ### 🚀 React Native & React JS Developer
 
@@ -16,12 +16,6 @@ Welcome to my GitHub profile! I am a passionate and dedicated developer speciali
   - HTML5 & CSS3
   - TypeScript
 
-- **Backend:**
-  - Node.js
-  - Express.js
-  - RESTful APIs
-  - GraphQL
-
 - **Mobile Development:**
   - React Native
   - Expo
@@ -34,7 +28,6 @@ Welcome to my GitHub profile! I am a passionate and dedicated developer speciali
   - Babel
   - Jest & React Testing Library
   - Firebase
-  - Docker
 
 ---
 
@@ -68,23 +61,10 @@ An end-to-end solution with both frontend and backend components, demonstrating 
 
 ## 📫 Let's Connect
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [linkedin.com/in/yourusername](https://www.linkedin.com/in/yourusername)
-- **Portfolio:** [yourportfolio.com](https://www.yourportfolio.com)
-- **Twitter:** [@yourusername](https://twitter.com/yourusername)
+- **Email:** [ahmad.shahzad1416@gmail.com](mailto:ahmad.shahzad1416@gmail.com)
+- **LinkedIn:** [[linkedin.com/in/ahmad-shahzad-20](https://www.linkedin.com/in/ahmad-shahzad-20/)]
 
 Feel free to reach out if you have any questions or would like to collaborate on a project!
 
 ---
-
-## 📚 Latest Blog Posts
-
-- [Understanding React Hooks](https://yourblog.com/understanding-react-hooks)
-- [State Management in React](https://yourblog.com/state-management-in-react)
-- [Building Scalable React Native Apps](https://yourblog.com/building-scalable-react-native-apps)
-
-Check out more on my [blog](https://yourblog.com).
-
----
-
 Thanks for visiting my GitHub profile! 🚀
