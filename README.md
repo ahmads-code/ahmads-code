@@ -53,12 +53,6 @@ An end-to-end solution with both frontend and backend components, demonstrating 
 
 ---
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
----
-
 ## 📫 Let's Connect
 
 - **Email:** [ahmad.shahzad1416@gmail.com](mailto:ahmad.shahzad1416@gmail.com)
