@@ -36,6 +36,8 @@ A high-performance mobile application built with React Native, providing seamles
 - **Tech Stack:** React Native, Redux, Firebase
 - **Features:** Authentication, Realtime Database, Push Notifications
 
+  ![Teaming Application](./ImaTeam.jpg)
+
 ### Project 2: React JS Web App
 A modern and responsive web application developed using React JS, showcasing a clean and intuitive user interface.
 
