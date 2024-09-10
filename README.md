@@ -33,19 +33,19 @@ Welcome to my GitHub profile! I am a passionate and dedicated developer speciali
 
 ## 🌟 Featured Projects
 
-### [Project 1: React Native App](https://github.com/yourusername/react-native-app)
+### [Project 1: React Native App]
 A high-performance mobile application built with React Native, providing seamless user experience and rich features.
 
 - **Tech Stack:** React Native, Redux, Firebase
 - **Features:** Authentication, Realtime Database, Push Notifications
 
-### [Project 2: React JS Web App](https://github.com/yourusername/react-js-web-app)
+### [Project 2: React JS Web App]
 A modern and responsive web application developed using React JS, showcasing a clean and intuitive user interface.
 
 - **Tech Stack:** React JS, Context API, Node.js
 - **Features:** SPA, Server-side Rendering, Dynamic Routing
 
-### [Project 3: Full Stack App](https://github.com/yourusername/full-stack-app)
+### [Project 3: Full Stack App]
 An end-to-end solution with both frontend and backend components, demonstrating my full-stack development capabilities.
 
 - **Tech Stack:** React JS, Node.js, Express.js, MongoDB
