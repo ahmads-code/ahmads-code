@@ -24,9 +24,6 @@ Welcome to my GitHub profile! I am a passionate and dedicated developer speciali
 - **Tools & Platforms:**
   - Git & GitHub
   - VS Code
-  - Webpack
-  - Babel
-  - Jest & React Testing Library
   - Firebase
 
 ---
