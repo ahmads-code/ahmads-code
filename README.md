@@ -39,16 +39,17 @@ A high-performance mobile application built with React Native, providing seamles
  <img src="./ImaTeam.jpg" alt="Alt text" height="400">
 
 ### Project 2: React JS Web App
-A modern and responsive web application developed using React JS, showcasing a clean and intuitive user interface.
+Contributed to booking module of a modern and responsive web application developed using React JS, showcasing a clean and intuitive user interface.
 
 - **Tech Stack:** React JS, Context API, Node.js
-- **Features:** SPA, Server-side Rendering, Dynamic Routing
+- **Features:** Online booking
 
-### Project 3: Full Stack App
+
+### Project 3: Todolist Applicaton with advanced features
 An end-to-end solution with both frontend and backend components, demonstrating my full-stack development capabilities.
 
 - **Tech Stack:** React JS, Node.js, Express.js, MongoDB
-- **Features:** CRUD Operations, JWT Authentication, Responsive Design
+- **Features:** CRUD Operations, Responsive Design
 
 ---
 
