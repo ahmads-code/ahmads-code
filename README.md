@@ -36,7 +36,7 @@ A high-performance mobile application built with React Native, providing seamles
 - **Tech Stack:** React Native, Redux, Firebase
 - **Features:** Authentication, Realtime Database, Push Notifications
 
- <img src="./ImaTeam.jpg" alt="Alt text" height="400">
+ <img src="./ImaTeam.jpg" alt="react native application developer" height="400">
 
 ### Project 2: React JS Web App
 Contributed to booking module of a modern and responsive web application developed using React JS, showcasing a clean and intuitive user interface.
@@ -44,14 +44,19 @@ Contributed to booking module of a modern and responsive web application develop
 - **Tech Stack:** React JS, Context API, Node.js
 - **Features:** Online booking
 
+<img src="./scthrive.png" alt="reactjs application developer" height="400">
+
 
 ### Project 3: Todolist Applicaton with advanced features
-An end-to-end solution with both frontend and backend components, demonstrating my full-stack development capabilities.
+A robust Todolist application with reminder and push notification for keeping user updated for the important tasks
 
-- **Tech Stack:** React JS, Node.js, Express.js, MongoDB
+- **Tech Stack:** React Native, Redux-toolkit, One Signal push notification
 - **Features:** CRUD Operations, Responsive Design
 
----
+<div style="display: flex;">
+  <img src="./Sign in.png" alt="react native application developer" width="300" height="200">
+  <img src="./todoistHome.png" alt="react native application developer" width="300" height="200">
+</div>
 
 ## 📫 Let's Connect
 
