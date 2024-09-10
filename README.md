@@ -57,11 +57,11 @@ Contributed to booking module of a modern and responsive web application develop
 
 <img src="./scthrive.png" alt="reactjs application developer" height="400">
 
-### Project 4: Debugged an AI powered application
-An AI powered application developed for pairs talking tips. Generate acurate response for given queries.
+### Project 4: AI powered chat application
+Debugged an AI powered application developed for pairs talking tips. Generate acurate response for given queries.
 
 - **Tech Stack:** React Native, Redux-toolkit, One Signal push notification
-- **Features:** Authentication, AI powered chating for pair talking tips
+- **Features:** Authentication, AI powered chating for pair talking tips, voice messaging
 
 <div style="display: flex;">
   <img src="./Splash screen.png" alt="react native application developer" height="400">
