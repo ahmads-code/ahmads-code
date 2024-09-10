@@ -30,24 +30,7 @@ Welcome to my GitHub profile! I am a passionate and dedicated developer speciali
 
 ## 🌟 Featured Projects
 
-### Project 1: React Native App
-A high-performance mobile application built with React Native, providing seamless user experience and rich features.
-
-- **Tech Stack:** React Native, Redux, Firebase
-- **Features:** Authentication, Realtime Database, Push Notifications
-
- <img src="./ImaTeam.jpg" alt="react native application developer" height="400">
-
-### Project 2: React JS Web App
-Contributed to booking module of a modern and responsive web application developed using React JS, showcasing a clean and intuitive user interface.
-
-- **Tech Stack:** React JS, Context API, Node.js
-- **Features:** Online booking
-
-<img src="./scthrive.png" alt="reactjs application developer" height="400">
-
-
-### Project 3: Todolist Applicaton with advanced features
+### Project 1: Todolist Applicaton with advanced features
 A robust Todolist application with reminder and push notification for keeping user updated for the important tasks
 
 - **Tech Stack:** React Native, Redux-toolkit, One Signal push notification
@@ -58,7 +41,23 @@ A robust Todolist application with reminder and push notification for keeping us
   <img src="./todoistHome.png" alt="react native application developer" height="400">
 </div>
 
-### Project 3: Debugged an AI powered application
+### Project 2: React Native App
+A high-performance mobile application built with React Native, providing seamless user experience and rich features.
+
+- **Tech Stack:** React Native, Redux, Firebase
+- **Features:** Authentication, Realtime Database, Push Notifications
+
+ <img src="./ImaTeam.jpg" alt="react native application developer" height="400">
+
+### Project 3: React JS Web App
+Contributed to booking module of a modern and responsive web application developed using React JS, showcasing a clean and intuitive user interface.
+
+- **Tech Stack:** React JS, Context API, Node.js
+- **Features:** Online booking
+
+<img src="./scthrive.png" alt="reactjs application developer" height="400">
+
+### Project 4: Debugged an AI powered application
 An AI powered application developed for pairs talking tips. Generate acurate response for given queries.
 
 - **Tech Stack:** React Native, Redux-toolkit, One Signal push notification
