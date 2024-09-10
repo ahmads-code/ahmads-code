@@ -2,7 +2,7 @@
 
 ### 🚀 React Native & React JS Developer
 
-Welcome to my GitHub profile! I am a passionate and dedicated developer specializing in building modern, responsive, and high-performance applications using React Native and React JS. 
+I am a passionate and dedicated developer specializing in building modern, responsive, and high-performance applications using React Native and React JS. 
 
 ---
 
