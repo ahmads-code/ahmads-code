@@ -54,8 +54,19 @@ A robust Todolist application with reminder and push notification for keeping us
 - **Features:** CRUD Operations, Responsive Design
 
 <div style="display: flex;">
-  <img src="./Sign in.png" alt="react native application developer" width="300" height="200">
-  <img src="./todoistHome.png" alt="react native application developer" width="300" height="200">
+  <img src="./Sign in.png" alt="react native application developer" height="400">
+  <img src="./todoistHome.png" alt="react native application developer" height="400">
+</div>
+
+### Project 3: Debugged an AI powered application
+An AI powered application developed for pairs talking tips. Generate acurate response for given queries.
+
+- **Tech Stack:** React Native, Redux-toolkit, One Signal push notification
+- **Features:** Authentication, AI powered chating for pair talking tips
+
+<div style="display: flex;">
+  <img src="./Splash screen.png" alt="react native application developer" height="400">
+  <img src="./Onboarding screen.png" alt="react native application developer" height="400">
 </div>
 
 ## 📫 Let's Connect
