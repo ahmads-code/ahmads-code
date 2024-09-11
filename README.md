@@ -11,7 +11,7 @@ I am a passionate and dedicated developer specializing in building modern, respo
 - **Frontend:** 
   - React JS
   - React Native
-  - Redux / Context API
+  - Redux-toolkit / Context API
   - JavaScript (ES6+)
   - HTML5 & CSS3
   - TypeScript
@@ -19,7 +19,6 @@ I am a passionate and dedicated developer specializing in building modern, respo
 - **Mobile Development:**
   - React Native
   - Expo
-  - Native Modules
 
 - **Tools & Platforms:**
   - Git & GitHub
