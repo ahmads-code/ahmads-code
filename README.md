@@ -15,6 +15,8 @@ I am a passionate and dedicated developer specializing in building modern, respo
   - JavaScript (ES6+)
   - HTML5 & CSS3
   - TypeScript
+  - Rest api
+  - Core PHP
 
 - **Mobile Development:**
   - React Native
